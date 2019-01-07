@@ -1,2 +1,3 @@
 # clock
-Maeda’s 12 o’clocks
+
+![](clock1.gif)
